@@ -1,5 +1,5 @@
 #endpoint: ${env:PRISMA_ENDPOINT}
-endpoint: https://sick-fits-prod-3424c4e8d1.herokuapp.com/sick-fits-product/prod
+endpoint: https://sick-fits-prisma-8190189dff.herokuapp.com/sick-fits-prod/prod
 datamodel: datamodel.prisma
 secret: ${env:PRISMA_SECRET}
 hooks:
